@@ -1,0 +1,8 @@
+{
+  "name": "android-share",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "impress.js": "~0.5.3"
+  }
+}
